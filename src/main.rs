@@ -4,11 +4,13 @@ mod var;
 mod types;
 mod strings;
 mod tuples;
+mod arrays;
 
 fn main() {
     //prints::run();
     //var::run();
     //types::run();
     //strings::run();
-    tuples::run();
+    //tuples::run();
+    arrays::run();
 }
