@@ -1,6 +1,6 @@
 // Loops - Used to iterate until a condition is met
 pub fn run() {
-    let mut count = 0;
+    let mut _count = 0;
 
     // Infinite loop
     /* loop {
@@ -38,7 +38,7 @@ pub fn run() {
             println!("{}", x);
         }   
         
-        count += 1;
+        _count += 1;
    }
 
 
