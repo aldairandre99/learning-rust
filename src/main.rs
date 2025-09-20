@@ -1,3 +1,4 @@
+mod prints;
 fn main() {
-    println!("Hello, world!");
+    prints::run();
 }
