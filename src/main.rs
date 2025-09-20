@@ -3,10 +3,12 @@ mod prints;
 mod var;
 mod types;
 mod strings;
+mod tuples;
 
 fn main() {
     //prints::run();
     //var::run();
     //types::run();
-    strings::run();
+    //strings::run();
+    tuples::run();
 }
