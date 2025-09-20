@@ -2,9 +2,11 @@
 mod prints;
 mod var;
 mod types;
+mod strings;
 
 fn main() {
     //prints::run();
     //var::run();
-    types::run();
+    //types::run();
+    strings::run();
 }
