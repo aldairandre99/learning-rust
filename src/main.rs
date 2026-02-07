@@ -10,6 +10,7 @@ mod conditionals;
 mod loops;
 mod functions;
 mod pointers_ref;
+mod structs;
 
 fn main() {
     //prints::run();
@@ -22,5 +23,6 @@ fn main() {
     //conditionals::run();
     //loops::run();
     //functions::run();
-    pointers_ref::run();
+    //pointers_ref::run();
+    structs::run();
 }
